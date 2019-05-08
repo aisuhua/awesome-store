@@ -12,6 +12,8 @@
 - [開發人員路線圖][10]
 - [系统设计入门][11]
 - [跟我一起写Makefile][12]
+- [掘金翻译计划][13]
+- [SDN网络指南][14]
 
 [1]: https://github.com/jobbole/awesome-c-cn
 [2]: https://github.com/MaximAbramchuck/awesome-interview-questions
@@ -25,3 +27,5 @@
 [10]: https://github.com/goodjack/developer-roadmap-chinese
 [11]: https://github.com/kevingo/system-design-primer-zh-tw/blob/master/README-zh-Hans.md
 [12]: https://github.com/seisman/how-to-write-makefile
+[13]: https://github.com/xitu/gold-miner
+[14]: https://github.com/feiskyer/sdn-handbook
